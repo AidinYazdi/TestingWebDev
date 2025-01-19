@@ -1,0 +1,23 @@
+{
+  "name": "testingwebdev",
+  "version": "1.0.0",
+  "description": "Made by Aidin Yazdi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AidinYazdi/TestingWebDev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AidinYazdi/TestingWebDev/issues"
+  },
+  "homepage": "https://github.com/AidinYazdi/TestingWebDev#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
